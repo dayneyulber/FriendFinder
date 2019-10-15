@@ -1,7 +1,7 @@
 var friends = [
     {
-      "name": "Lionel Messi",
-      "photo": "https://media.gettyimages.com/photos/lionel-messi-of-argentina-poses-for-a-portrait-during-the-official-picture-id972635152?s=2048x2048",
+      "name": "Brad Pitt",
+      "photo": "http://www.gstatic.com/tv/thumb/persons/1366/1366_v9_bb.jpg",
       "scores": [
         2,
         4,
@@ -16,8 +16,8 @@ var friends = [
       ]
     },
     {
-      "name": "Cristiano Ronaldo",
-      "photo": "https://media.gettyimages.com/photos/cristiano-ronaldo-of-portugal-poses-for-a-portrait-during-the-fifa-picture-id971158884?s=2048x2048",
+      "name": "Johnny Depp",
+      "photo": "http://www.gstatic.com/tv/thumb/persons/33623/33623_v9_bc.jpg",
       "scores": [
         2,
         4,
@@ -32,8 +32,8 @@ var friends = [
       ]
     },
     {
-      "name": "Neymar",
-      "photo": "https://media.gettyimages.com/photos/neymar-of-brazil-poses-for-a-portrait-during-the-official-fifa-world-picture-id973385564?s=2048x2048",
+      "name": "Harrison Ford",
+      "photo": "http://www.gstatic.com/tv/thumb/persons/25704/25704_v9_bb.jpg",
       "scores": [
         4,
         2,
@@ -48,8 +48,8 @@ var friends = [
       ]
     },
     {
-      "name": "Eden Hazard",
-      "photo": "https://media.gettyimages.com/photos/eden-hazard-of-belgium-poses-for-a-portrait-during-the-official-fifa-picture-id974275108?s=2048x2048",
+      "name": "Leonardo DiCaprio",
+      "photo": "http://www.gstatic.com/tv/thumb/persons/435/435_v9_bb.jpg",
       "scores": [
         2,
         3,
@@ -64,8 +64,8 @@ var friends = [
       ]
     },
     {
-      "name": "Kylian Mbappe",
-      "photo": "https://media.gettyimages.com/photos/kylian-mbappe-of-france-poses-for-a-portrait-during-the-official-fifa-picture-id971564092?s=2048x2048",
+      "name": "Will Smith",
+      "photo": "http://www.gstatic.com/tv/thumb/persons/1650/1650_v9_ba.jpg",
       "scores": [
         1,
         2,
@@ -80,8 +80,8 @@ var friends = [
       ]
     },
     {
-      "name": "Raheem Sterling",
-      "photo": "https://media.gettyimages.com/photos/raheem-sterling-of-england-poses-for-a-portrait-during-the-official-picture-id973392600?s=2048x2048",
+      "name": "Tom Hanks",
+      "photo": "http://www.gstatic.com/tv/thumb/persons/62982/62982_v9_bb.jpg",
       "scores": [
         5,
         4,
@@ -96,8 +96,8 @@ var friends = [
       ]
     },
     {
-      "name": "Sergio Ramos",
-      "photo": "https://media.gettyimages.com/photos/captain-sergio-ramos-of-spain-poses-for-a-portrait-during-the-fifa-picture-id969773610?s=2048x2048",
+      "name": "Tom Cruise",
+      "photo": "http://www.gstatic.com/tv/thumb/persons/378/378_v9_bd.jpg",
       "scores": [
         3,
         2,
@@ -112,8 +112,8 @@ var friends = [
       ]
     },
     {
-      "name": "Antoine Griezmann",
-      "photo": "https://media.gettyimages.com/photos/antoine-griezmann-of-france-poses-for-a-portrait-during-the-official-picture-id972039626?s=2048x2048",
+      "name": "George Clooney",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/9/92/George_Clooney-4_The_Men_Who_Stare_at_Goats_TIFF09_%28cropped%29.jpg",
       "scores": [
         3,
         4,
